@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple webpack boilerplate
 
 A ready to use simple webpack boilerplate.
@@ -100,3 +101,7 @@ ReactDOM.render(<Index />, document.getElementById("index"));
 </html>
 ```
 10. Create **.gitignore** file and input **/node_modules/** and **/dist**.
+=======
+# react-base
+Serve as a basic configuration for react projects
+>>>>>>> 2c1153685bf8d41e1365fd5166ee2d3b98527d5a
